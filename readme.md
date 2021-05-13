@@ -9,3 +9,4 @@ To run the app, you only need 1 command:
 The data is coming from yfinances
 
 # Demo
+![Example at work](demo.mov)
